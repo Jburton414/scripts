@@ -1,1 +1,1 @@
-#This repository is a collection of Jake Burton's scripts.
+#this repository is a collection of Jake Burton's scripts

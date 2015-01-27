@@ -1,1 +1,1 @@
-#Some scripts that parse path information from various input
+#these are some scripts that parse paths from various input

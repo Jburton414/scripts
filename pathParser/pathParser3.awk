@@ -1,10 +1,10 @@
 BEGIN{	#BEGIN BLOCK
 		FS="/";
 	 }
-	 {
-		script="find /tmp"
-		paths = system("bash -c '\''" script "'\''")
-	 }
+	 #{
+	 #	script="find /tmp"
+	 #	paths = system("bash -c '\''" script "'\''")
+	 #}
 	 {	#FILE NAME
 		printf "\n" "File name:" "\n" $NF "\n\n"
 	 }

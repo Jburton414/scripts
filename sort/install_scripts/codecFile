@@ -1,0 +1,92 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /MPlayer/releases/codecs</title>
+ </head>
+ <body>
+<h1>Index of /MPlayer/releases/codecs</h1>
+<ul><li><a href="/MPlayer/releases/"> Parent Directory</a></li>
+<li><a href="ChangeLog"> ChangeLog</a></li>
+<li><a href="MD5SUMS"> MD5SUMS</a></li>
+<li><a href="all-20061022-MD5SUMS"> all-20061022-MD5SUMS</a></li>
+<li><a href="all-20061022.tar.bz2"> all-20061022.tar.bz2</a></li>
+<li><a href="all-20071007-MD5SUMS"> all-20071007-MD5SUMS</a></li>
+<li><a href="all-20071007.tar.bz2"> all-20071007.tar.bz2</a></li>
+<li><a href="all-20100303-MD5SUMS"> all-20100303-MD5SUMS</a></li>
+<li><a href="all-20100303.tar.bz2"> all-20100303.tar.bz2</a></li>
+<li><a href="all-20110131-MD5SUMS"> all-20110131-MD5SUMS</a></li>
+<li><a href="all-20110131.tar.bz2"> all-20110131.tar.bz2</a></li>
+<li><a href="all-alpha-20061028-MD5SUMS"> all-alpha-20061028-MD5SUMS</a></li>
+<li><a href="all-alpha-20061028.tar.bz2"> all-alpha-20061028.tar.bz2</a></li>
+<li><a href="all-ppc-20061022-MD5SUMS"> all-ppc-20061022-MD5SUMS</a></li>
+<li><a href="all-ppc-20061022.tar.bz2"> all-ppc-20061022.tar.bz2</a></li>
+<li><a href="essential-20061022-MD5SUMS"> essential-20061022-MD5SUMS</a></li>
+<li><a href="essential-20061022.tar.bz2"> essential-20061022.tar.bz2</a></li>
+<li><a href="essential-20061022.tar.bz2.torrent"> essential-20061022.tar.bz2.torrent</a></li>
+<li><a href="essential-20071007-MD5SUMS"> essential-20071007-MD5SUMS</a></li>
+<li><a href="essential-20071007.tar.bz2"> essential-20071007.tar.bz2</a></li>
+<li><a href="essential-20071007.tar.bz2.torrent"> essential-20071007.tar.bz2.torrent</a></li>
+<li><a href="essential-alpha-20061028-MD5SUMS"> essential-alpha-20061028-MD5SUMS</a></li>
+<li><a href="essential-alpha-20061028.tar.bz2"> essential-alpha-20061028.tar.bz2</a></li>
+<li><a href="essential-amd64-20061203-MD5SUM"> essential-amd64-20061203-MD5SUM</a></li>
+<li><a href="essential-amd64-20061203.tar.bz2"> essential-amd64-20061203.tar.bz2</a></li>
+<li><a href="essential-amd64-20071007-MD5SUMS"> essential-amd64-20071007-MD5SUMS</a></li>
+<li><a href="essential-amd64-20071007.tar.bz2"> essential-amd64-20071007.tar.bz2</a></li>
+<li><a href="essential-macosx-x86-20060611-MD5SUMS"> essential-macosx-x86-20060611-MD5SUMS</a></li>
+<li><a href="essential-macosx-x86-20060611.zip"> essential-macosx-x86-20060611.zip</a></li>
+<li><a href="essential-ppc-20061022-MD5SUMS"> essential-ppc-20061022-MD5SUMS</a></li>
+<li><a href="essential-ppc-20061022.tar.bz2"> essential-ppc-20061022.tar.bz2</a></li>
+<li><a href="essential-ppc-20071007-MD5SUMS"> essential-ppc-20071007-MD5SUMS</a></li>
+<li><a href="essential-ppc-20071007.tar.bz2"> essential-ppc-20071007.tar.bz2</a></li>
+<li><a href="mplayer-codecs-20061022-1.i386.rpm"> mplayer-codecs-20061022-1.i386.rpm</a></li>
+<li><a href="mplayer-codecs-20061022-1.x86_64.rpm"> mplayer-codecs-20061022-1.x86_64.rpm</a></li>
+<li><a href="mplayer-codecs-extra-20061022-1.i386.rpm"> mplayer-codecs-extra-20061022-1.i386.rpm</a></li>
+<li><a href="mplayer-codecs-extra-20061022-1.x86_64.rpm"> mplayer-codecs-extra-20061022-1.x86_64.rpm</a></li>
+<li><a href="qt5dlls-20040626-MD5SUMS"> qt5dlls-20040626-MD5SUMS</a></li>
+<li><a href="qt5dlls-20040626.tar.bz2"> qt5dlls-20040626.tar.bz2</a></li>
+<li><a href="qt63dlls-20050115-MD5SUMS"> qt63dlls-20050115-MD5SUMS</a></li>
+<li><a href="qt63dlls-20050115.tar.bz2"> qt63dlls-20050115.tar.bz2</a></li>
+<li><a href="qt65dlls-20040704-MD5SUMS"> qt65dlls-20040704-MD5SUMS</a></li>
+<li><a href="qt65dlls-20040704.tar.bz2"> qt65dlls-20040704.tar.bz2</a></li>
+<li><a href="qt6dlls-20040626-MD5SUMS"> qt6dlls-20040626-MD5SUMS</a></li>
+<li><a href="qt6dlls-20040626.tar.bz2"> qt6dlls-20040626.tar.bz2</a></li>
+<li><a href="qtextras-20041107-MD5SUMS"> qtextras-20041107-MD5SUMS</a></li>
+<li><a href="qtextras-20041107.tar.bz2"> qtextras-20041107.tar.bz2</a></li>
+<li><a href="rp8codecs-20040626-MD5SUMS"> rp8codecs-20040626-MD5SUMS</a></li>
+<li><a href="rp8codecs-20040626.tar.bz2"> rp8codecs-20040626.tar.bz2</a></li>
+<li><a href="rp8codecs-alpha-20050115-MD5SUMS"> rp8codecs-alpha-20050115-MD5SUMS</a></li>
+<li><a href="rp8codecs-alpha-20050115.tar.bz2"> rp8codecs-alpha-20050115.tar.bz2</a></li>
+<li><a href="rp8codecs-ppc-20050115-MD5SUMS"> rp8codecs-ppc-20050115-MD5SUMS</a></li>
+<li><a href="rp8codecs-ppc-20050115.tar.bz2"> rp8codecs-ppc-20050115.tar.bz2</a></li>
+<li><a href="rp8codecs-win32-20040626-MD5SUMS"> rp8codecs-win32-20040626-MD5SUMS</a></li>
+<li><a href="rp8codecs-win32-20040626.tar.bz2"> rp8codecs-win32-20040626.tar.bz2</a></li>
+<li><a href="rp9codecs-20050115-MD5SUMS"> rp9codecs-20050115-MD5SUMS</a></li>
+<li><a href="rp9codecs-20050115.tar.bz2"> rp9codecs-20050115.tar.bz2</a></li>
+<li><a href="rp9codecs-macosx-20041107-MD5SUMS"> rp9codecs-macosx-20041107-MD5SUMS</a></li>
+<li><a href="rp9codecs-macosx-20041107.pkg.zip"> rp9codecs-macosx-20041107.pkg.zip</a></li>
+<li><a href="rp9codecs-win32-20050115-MD5SUMS"> rp9codecs-win32-20050115-MD5SUMS</a></li>
+<li><a href="rp9codecs-win32-20050115.tar.bz2"> rp9codecs-win32-20050115.tar.bz2</a></li>
+<li><a href="unsupported-20040809-MD5SUMS"> unsupported-20040809-MD5SUMS</a></li>
+<li><a href="unsupported-20040809.tar.bz2"> unsupported-20040809.tar.bz2</a></li>
+<li><a href="win32codecs-20040703-MD5SUMS"> win32codecs-20040703-MD5SUMS</a></li>
+<li><a href="win32codecs-20040703.tar.bz2"> win32codecs-20040703.tar.bz2</a></li>
+<li><a href="win32codecs-essential-20040703-MD5SUMS"> win32codecs-essential-20040703-MD5SUMS</a></li>
+<li><a href="win32codecs-essential-20040703.tar.bz2"> win32codecs-essential-20040703.tar.bz2</a></li>
+<li><a href="windows-all-20061022-MD5SUMS"> windows-all-20061022-MD5SUMS</a></li>
+<li><a href="windows-all-20061022.zip"> windows-all-20061022.zip</a></li>
+<li><a href="windows-all-20071007-MD5SUMS"> windows-all-20071007-MD5SUMS</a></li>
+<li><a href="windows-all-20071007.zip"> windows-all-20071007.zip</a></li>
+<li><a href="windows-essential-20061022-MD5SUMS"> windows-essential-20061022-MD5SUMS</a></li>
+<li><a href="windows-essential-20061022.zip"> windows-essential-20061022.zip</a></li>
+<li><a href="windows-essential-20061022.zip.torrent"> windows-essential-20061022.zip.torrent</a></li>
+<li><a href="windows-essential-20071007-MD5SUMS"> windows-essential-20071007-MD5SUMS</a></li>
+<li><a href="windows-essential-20071007.zip"> windows-essential-20071007.zip</a></li>
+<li><a href="windows-essential-20071007.zip.torrent"> windows-essential-20071007.zip.torrent</a></li>
+<li><a href="xanimdlls-20040626-MD5SUMS"> xanimdlls-20040626-MD5SUMS</a></li>
+<li><a href="xanimdlls-20040626.tar.bz2"> xanimdlls-20040626.tar.bz2</a></li>
+<li><a href="xanimdlls-alpha-20061028-MD5SUMS"> xanimdlls-alpha-20061028-MD5SUMS</a></li>
+<li><a href="xanimdlls-alpha-20061028.tar.bz2"> xanimdlls-alpha-20061028.tar.bz2</a></li>
+<li><a href="xanimdlls-ppc-20040626-MD5SUMS"> xanimdlls-ppc-20040626-MD5SUMS</a></li>
+<li><a href="xanimdlls-ppc-20040626.tar.bz2"> xanimdlls-ppc-20040626.tar.bz2</a></li>
+</ul>
+</body></html>

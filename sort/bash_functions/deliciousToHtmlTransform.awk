@@ -1,21 +1,4 @@
-#!/usr/bin/env bash
-
-bashDate=$(date '+%m-%d-%Y@%H:%M:%S')
-backupRootDir=./delicious_backups
-
-mkdir -p $backupRootDir/$bashDate/images
-cd $backupRootDir/$bashDate/
-
-pwd
-
-deliciousXML=deliciousBackup.xml
-
-read -p "Enter Delicious user name: " user
-read -p "Enter Delicious password: " pass
-
-curl https://$user:$pass@api.del.icio.us/v1/posts/all>./$deliciousXML
-
-awk 'BEGIN {
+BEGIN {
 
 		FS="<post "
 		
@@ -115,4 +98,4 @@ awk 'BEGIN {
 		
 		printf "</body>\n</html>"
 				
-	}' $deliciousXML | tee index.html
+	}

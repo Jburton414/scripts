@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 bashDate=$(date '+%m-%d-%Y@%H:%M:%S')
-backupRootDir=./delicious_backups
+backupRootDir=/root/delicious_backups
 
 mkdir -p $backupRootDir/$bashDate/images
 cd $backupRootDir/$bashDate/
@@ -13,7 +13,12 @@ deliciousXML=deliciousBackup.xml
 read -p "Enter Delicious user name: " user
 read -p "Enter Delicious password: " pass
 
-curl https://$user:$pass@api.del.icio.us/v1/posts/all>./$deliciousXML
+echo $user $pass
+
+curl https://jburton414:123456qwerty@api.del.icio.us/v1/posts/all>./$deliciousXML
+
+#curl https://$user:$pass@api.del.icio.us/v1/posts/all>./$deliciousXML
+#testFile=`ls ./01-01-2015@18:11:54.delicious_backup.xml`
 
 awk 'BEGIN {
 

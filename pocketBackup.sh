@@ -1,0 +1,1 @@
+curl https://getpocket.com/v3/get --insecure -X POST -H "Content-Type: application/json" -H "X-Accept: application/json" -d "{\"consumer_key\":\"80793-861ab2c92e846c8324b417e8\", \"access_token\":\"b6b55049-fe0a-df88-8f78-eb9ccc\", \"detailType\":\"complete\"}" | jq -r '.list[] | [.given_url] + (.tags|keys_unsorted?) | @csv' | less
